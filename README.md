@@ -13,6 +13,8 @@
 
 ## 💻 Tech Stack:
 
+<br> 
+
 ### &nbsp;&nbsp;&nbsp;&nbsp;Blockchain & Web3
 <div align="center">  
 <a href="https://soliditylang.org/" target="_blank"><img style="margin: 10px" src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="Solidity" height="50" /></a> 
@@ -22,6 +24,9 @@
 <a href="https://viem.sh/" target="_blank"><img style="margin: 10px" src="https://viem.sh/icon-light.png" alt="Viem" height="50" /></a> 
 <a href="https://ipfs.io/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/330716/ipfs.svg" alt="IPFS" height="50" /></a>
 </div>
+
+<hr>
+<br>
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Frontend
 <div align="center">  
@@ -34,6 +39,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
+
+<hr>
 <br>
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;Backend & Database 
@@ -45,8 +52,42 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 </div>
+<br><br>
+
+## ⚗️ Projects:
+
+<br>
+  
+### You can check out my most recent projects below:
+
+<div align= "center">
+
+<br>
+  
+[![aur2](https://github.com/kimonkekes/kimonkekes/assets/126149828/45c6226c-2112-4aed-8901-a91f67b60cec)](https://github.com/kimonkekes/Auric) 
+
+<br>
+ 
+[![det1](https://github.com/kimonkekes/kimonkekes/assets/126149828/42c88092-0a48-4a82-b297-ecb649828e1f)](https://github.com/kimonkekes/DetectifAI)
+
+<br>
+ 
+[![stabilis-banner](https://github.com/kimonkekes/kimonkekes/assets/126149828/68a9a7ab-ed74-4e07-9d67-eef652c00154)](https://github.com/kimonkekes/Stabilis-coin)
+
+<br>
+ 
+[![cv1](https://github.com/kimonkekes/kimonkekes/assets/126149828/a12e3a91-18e3-4682-8dfb-7f2e093e550d)](https://github.com/kimonkekes/CodeVerter)
+
+</div>
 <br>
 
+### My portfolio:
+
+<br>
+
+[![pp](https://github.com/kimonkekes/kimonkekes/assets/126149828/86f13edd-1444-4b20-99a7-a8ca48321278)](https://main--kimonkekes.netlify.app/)
+
+<br>
 
 ## 🌐 Socials:
 
