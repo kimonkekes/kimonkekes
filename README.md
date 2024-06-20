@@ -1,6 +1,7 @@
 # Welcome😎 I'm Kimon
 
-![Profile Banner](https://media.licdn.com/dms/image/D4D16AQH527zWHkGV7g/profile-displaybackgroundimage-shrink_350_1400/0/1711457375178?e=1718236800&v=beta&t=7wZDBCL0vQzs8RXB6WktafWMkJL32Bq-FKQMjndpX2w)
+![Profile Banner](https://github.com/kimonkekes/kimonkekes/assets/126149828/152a7e20-7665-4936-ba44-68750b723c44)
+
 
 ## 💫 About Me:
 
